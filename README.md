@@ -39,7 +39,7 @@ Swagger - API documentation;
 
 JWT - token authenication;
 
-Spring Boot Surefire - test report and Code coverage;
+Maven Surefire - test report and Code coverage;
 
 
 # TESTING
